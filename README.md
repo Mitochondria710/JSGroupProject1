@@ -1,5 +1,6 @@
-
-
+Joshua Campos
+Jacob Lass
+Javin Mueller: jmueller7@dmacc.edu
 
 
 # EmployeeHub
