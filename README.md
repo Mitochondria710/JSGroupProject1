@@ -1,4 +1,4 @@
-Joshua Campos
+Joshua Campos jlcampos@dmacc.edu
 Jacob Lass: jplass@dmacc.edu
 Javin Mueller: jmueller7@dmacc.edu
 
