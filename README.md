@@ -1,5 +1,5 @@
 Joshua Campos
-Jacob Lass
+Jacob Lass: jplass@dmacc.edu
 Javin Mueller: jmueller7@dmacc.edu
 
 
