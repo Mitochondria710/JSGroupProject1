@@ -1,0 +1,33 @@
+
+.header{
+    padding: 4%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+body {
+    background-color: white;
+}
+.search, .nameMenu{
+    border: 3px solid black;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    padding-left: 2px;
+}
+.search:hover, .nameMenu:hover{
+    border: 3px solid rgb(1, 1, 139);
+}
+.name, .bio, .position, .email{
+    font-weight: bolder;
+    color: black;
+    text-align: left;
+    font-size: 10px;
+}
+.card{
+    background-color: white;
+    border: black solid 2px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
