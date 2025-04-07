@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Michael Scott",
+        "bio": "Michael is a Engineering Manager of EmployeeHub. He is known for his unorthodox management style.",
+        "email": "michaels@employeehub.com",
+        "role": "Engineering Manager",
+        "image": "/images/MichaelScott.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Alice Aguilar",
+        "bio": "Alice is a Senior Engineering at EmployeeHub. She is known for her expertise in JavaScript and React.",
+        "email": "aliceAguilar@employeehub.com",
+        "role": "Senior Engineer",
+        "image": "/images/aliceAguilar.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jim Halpert",
+        "bio": "Jim is a Senior Engineering at EmployeeHub.",
+        "email": "jimHalpert@employeehub.com",
+        "role": "Senior Engineer",
+        "image": "/images/jimHalpert.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pam Beesly",   
+        "bio": "Pam is a Senior Engineering at EmployeeHub.",
+        "email": "pamBeesly@employeehub.com",
+        "role": "Senior Engineer",
+        "image": "/images/pamBeesly.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dwight Schrute",
+        "bio": "Dwight is a Senior Engineering at EmployeeHub.",
+        "email": "dwightSchrute@employeehub.com",
+        "role": "Senior Engineer",
+        "image": "/images/dwightSchrute.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Angela Martin",
+        "bio": "Angela is a Software Engineering at EmployeeHub.",
+        "email": "angelaMartin@employeehub.com",
+        "role": "Software Engineer",
+        "image": "/images/angelaMartin.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Kevin Malone",
+        "bio": "Kevin is a Software Engineering at EmployeeHub.",
+        "email": "kevinMalone@employeehub.com",
+        "role": "Software Engineer",
+        "image": "/images/kevinMalone.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Stanley Hudson",
+        "bio": "Stanley is a Software Engineering at EmployeeHub.",
+        "email": "stanleyHudson@employeehub.com",
+        "role": "Software Engineer",   
+        "image": "/images/stanleyHudson.jpg"
+    }
+]
