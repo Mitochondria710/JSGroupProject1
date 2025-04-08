@@ -1,3 +1,8 @@
+Joshua Campos jlcampos@dmacc.edu
+Jacob Lass: jplass@dmacc.edu
+Javin Mueller: jmueller7@dmacc.edu
+
+
 # EmployeeHub
 
 This is an application that allows people to see who they work with built in Next.js. 
